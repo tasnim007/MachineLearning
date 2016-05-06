@@ -20,5 +20,5 @@ In this mini-project, you will implement a decision-tree algorithm and apply it 
 
 
 
-## Solution:
+## Implementation:
 **Language:** C++
