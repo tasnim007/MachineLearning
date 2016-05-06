@@ -24,7 +24,7 @@
 
 Run the experiment 10 times and take average values
 
-Compare this learning method with the supervised decision tree learning method (1st Assignment) in terms of 
+Compare this learning method with the supervised decision tree learning method in terms of 
 + Accuracy
 + Precision
 + Recall
