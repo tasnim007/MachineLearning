@@ -29,9 +29,9 @@ Compare this learning method with the supervised decision tree learning method i
 + Precision
 + Recall
 + F-measure
-
++ G-mean
 
 ## Implementation:
 **Language:** C++
-G-mean
+
 
