@@ -1,4 +1,4 @@
-# Decision tree learning for cancer diagnosis
+# Diagnosis of cancer using Decision Tree Learning
 
 ## Problem Description:
 
