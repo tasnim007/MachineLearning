@@ -1,5 +1,5 @@
 
-# Naïve Bayes algorithm for text classification
+# Text classification using  Naive Bayes algorithm
 
 ## Problem Description:
 
