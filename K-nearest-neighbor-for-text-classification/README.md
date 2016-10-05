@@ -1,5 +1,5 @@
 
-# K-nearest neighbor for text classification
+# Text classification using K-Nearest Neighbor
 
 ## Problem Description:
 
