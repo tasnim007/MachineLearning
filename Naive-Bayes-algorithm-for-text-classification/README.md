@@ -7,7 +7,7 @@ The goal of text classification is to identify the topic for a piece of text (ne
 
 1.  Get the dataset , which is created from the original collection and contains a training file, a test file, the topics, and the format for train/test.
 
-2.  Implement the Naive Bayes Algorithm. What's the accuracy of your learner? (Try various smoothing parameters for the Naive Bayes learner. Which parameters work best?)
+2.  We implemented the Naive Bayes Algorithm. Also find out the accuracy of our learner. (Tried various smoothing parameters for the Naive Bayes learner.)
 
 
 ## Implementation:
